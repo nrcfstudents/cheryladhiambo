@@ -488,7 +488,18 @@ button[type="submit"]:hover {
         text-align: center;
     }
 
-    .navbar {
+   
+          .navbar{ body{
+            background-color: paleturquoise;
+            font-size:25px ;
+            }
+            color: blueviolet;
+            font-weight: bold;
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+
+          }.navbar {
         flex-direction: column;
     }
 
